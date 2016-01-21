@@ -1,0 +1,1 @@
+`export default fsExists :: String -> Promise Boolean | Error`
