@@ -1,6 +1,6 @@
 {
   "name": "fs-exists-promise",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "description": "Like fs.exists(), but a promise",
   "bugs": {
