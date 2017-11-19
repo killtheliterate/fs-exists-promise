@@ -2,6 +2,8 @@
 [![NPM version](https://img.shields.io/npm/v/fs-promise-exists.svg)](https://www.npmjs.com/package/fs-exists-promise)
 
 # fs-exists-promise
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/killtheliterate/fs-exists-promise.svg)](https://greenkeeper.io/)
 Provides functionality similar to the deprecated `fs.exists()`. 
 # Install
 
